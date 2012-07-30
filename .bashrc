@@ -12,3 +12,7 @@ fi
 
 # awesome git prompt
 PS1='\n\n\w\[\033[31m\]$(__git_ps1)\[\033[00m\]\$ '
+
+
+# If you have have a favorite text editor, alias it here
+EDITOR="mate -w"
